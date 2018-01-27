@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Simple
+Exec=/usr/bin/gnome-pie -o 311
+Encoding=UTF-8
+Type=Application
+Icon=archlinux-logo
+StartupWMClass=gnome-pie-311
